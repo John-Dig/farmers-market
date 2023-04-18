@@ -36,3 +36,5 @@ const marketSchedule = [
      booth: "9G"
   }
  ];
+
+ export default marketSchedule;

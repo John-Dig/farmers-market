@@ -266,3 +266,6 @@ const availableProduce = [
      ]
   }
 ];
+
+
+export default availableProduce;
